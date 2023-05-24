@@ -1,0 +1,17 @@
+.config-controller-bg-container {
+  background-color: #475569;
+  color: #ffffff;
+  padding: 25px;
+  padding-left: 50px;
+  font-family: 'Roboto';
+}
+.list-container {
+  list-style-type: none;
+  padding-left: 0px;
+}
+.layout-heading {
+  font-size: 26px;
+}
+.label {
+  margin-left: 8px;
+}

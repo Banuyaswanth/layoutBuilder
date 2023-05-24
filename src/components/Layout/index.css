@@ -1,0 +1,15 @@
+.layout-container {
+  height: 100vh;
+  margin: 25px;
+  padding: 25px;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+@media (max-width: 767px) {
+  .layout-container {
+    height: 100%;
+  }
+}
